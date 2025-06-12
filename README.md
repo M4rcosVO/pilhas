@@ -28,9 +28,9 @@ O TAD Pilha segue o princípio **LIFO (Last In, First Out)** — o último eleme
 
 ## Estrutura do Projeto
 
-├── pilha.py # Código da classe Pilha
+├── pilha.py
 
-├── README.md # Este arquivo
+├── README.md
 
 ---
 
