@@ -28,8 +28,8 @@ O TAD Pilha segue o princípio **LIFO (Last In, First Out)** — o último eleme
 
 ## Estrutura do Projeto
 
-tad_pilha_python/
 ├── pilha.py # Código da classe Pilha
+
 ├── README.md # Este arquivo
 
 ---
@@ -41,23 +41,3 @@ Tamanho da pilha: 3
 Elemento removido: 30
 Elemento removido: 20
 Elemento removido: 10
-
----
-
-  Como executar
-
-    Certifique-se de ter o Python instalado na máquina.
-
-    Clone ou baixe este repositório.
-
-    Execute o arquivo Python:
-
-    python pilha.py
-
----
-
-✍️ Autor
-
-Marcos Vinícius de Oliveira
-
----
